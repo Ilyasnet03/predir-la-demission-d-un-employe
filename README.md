@@ -23,3 +23,4 @@ Le modèle se base sur les facteurs suivants (classés par importance) :
 4. **Ancienneté**
 5. **Nombre de Projets**
 6. **Niveau de Salaire**
+7. <img width="1847" height="858" alt="Image" src="https://github.com/user-attachments/assets/981a294c-cfc7-4289-b27b-fd8297dcc141" />
